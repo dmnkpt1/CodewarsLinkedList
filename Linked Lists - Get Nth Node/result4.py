@@ -5,7 +5,7 @@ from preloaded import Node
 #     def __init__(self, data, next=None):
 #         self.data = data
 #         self.next = next
- 
+
 def get_nth(node, index):
     nodes = []
     while node is not None:
